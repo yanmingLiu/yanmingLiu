@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 - 🇨🇳 I’m an iOS developer in ChengDu 
 - 💻 Focusing on swift & ObjC
