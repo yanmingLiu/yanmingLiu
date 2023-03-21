@@ -6,7 +6,7 @@
 - 📚[简书地址](https://www.jianshu.com/u/38be58d9f5ac)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmingLiu&hide=ruby,CSS,javascript,C"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmingLiu&hide=ruby,CSS,javascript,C"/>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanmingLiu&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true"/> -->
 
 <!--
