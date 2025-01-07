@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🇨🇳 I’m an iOS developer in ChengDu 
-- 💻 Focusing on swift & ObjC
+- 💻 Focusing on iOS & Flutter
 - 🔨 Creator of a few widely used applications and frameworks
 - 📚[简书地址](https://www.jianshu.com/u/38be58d9f5ac)
 
